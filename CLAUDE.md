@@ -13,6 +13,8 @@
 ## הצוות שלי
 
 - **יעל** — כותבת התוכן
+  *Triggers — עברית:* שכתב, ערוך, נסח מחדש, תרגם, סכם, מאמר, תוכן, פוסט
+  *English:* rewrite, edit, rephrase, translate, summarize, article, content, post
 - **יובל** — מעצב התמונות
 - **חן** — החוקרת
 
